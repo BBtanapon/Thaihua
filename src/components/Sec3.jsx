@@ -1,5 +1,5 @@
 import React from 'react'
-import banner1 from 'E:/thaihua-project/src/assets/check.jpg'
+import banner1 from '../assets/check.jpg'
 const Sec3 = () => {
   return (
    <div className='w-full bg-white py-16 px-4 text'>

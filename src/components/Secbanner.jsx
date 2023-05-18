@@ -1,5 +1,5 @@
 import React from 'react'
-import banner from 'E:/thaihua-project/src/assets/banner1.jpg'
+import banner from '../assets/banner1.jpg'
 import logo from 'E:/thaihua-project/src/assets/logo.jpg'
 const Secbanner = () => {
     return (

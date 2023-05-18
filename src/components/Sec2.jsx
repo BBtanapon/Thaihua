@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from 'E:/thaihua-project/src/assets/logo.jpg'
+import logo from '../assets/logo.jpg'
 const Sec2 = () => {
   return (
     <div className='pt-5 flex flex-col justify-center items-center text-center bg-white'>

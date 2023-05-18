@@ -1,6 +1,6 @@
 import React from 'react'
 import { FaLine } from 'react-icons/fa';
-import lineicon from 'E:/thaihua-project/src/assets/icon-line.png';
+import lineicon from '../assets/icon-line.png';
 const Seclne = () => {
   return (
     <div className=' w-full h-[120px] flex justify-center items-center px-4 '>
